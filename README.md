@@ -4,4 +4,4 @@
 
 🌱 I’m currently learning infrastructures for machine learning applications.
 
-📫 How to reach me https://www.linkedin.com/in/gaurav-kasat-18/
+📫 How to reach me [https://www.linkedin.com/in/gaurav-kasat-18/](https://www.linkedin.com/in/gaurav-kasat18/)
